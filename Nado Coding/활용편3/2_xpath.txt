@@ -1,0 +1,21 @@
+/html/body/div/div/div/div/div/div/span/a...
+
+//*[@id="login"]
+
+
+슬래쉬 / 가 하나면 하나 하위
+
+슬래쉬 / 가 두개면 지금 있는 노드에서 하위 모두 찾기
+
+별 * 엘리먼트 이름 상관없이 라는 뜻
+
+앳 @ 속성
+
+
+크롬 - F12 or 개발자도구 - select an element... - 네이버 로그인 버튼 선택 후
+Copy Xpath 또는 Copy Full Xpath
+
+//*[@id="account"]/a/i
+   --> 모든 엘리먼트에서 id가 account 인 것
+
+/html/body/div[2]/div[3]/div[3]/div/div[2]/a
